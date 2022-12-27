@@ -1,16 +1,10 @@
-# juultimesedler-tasks
+# Project Juul Timesedler
 
-## List of tasks for the Project: Juul Timesedler
-Repository for frontend can be found here:
-[https://github.com/Brianmanden/juultimesedler-fe](https://github.com/Brianmanden/juultimesedler-fe)
+This project aims to build a web app that can register timesheets from workers through a web app.
 
-Repository for frontend can be found here:
-[https://github.com/Brianmanden/juultimesedler-be](https://github.com/Brianmanden/juultimesedler-be)
+Repository for frontend and backend can be found here:
+* [https://github.com/Brianmanden/juultimesedler-fe](https://github.com/Brianmanden/juultimesedler-fe)
 
+and here
 
-### Frontend tasks
-* Fetch timesheets from BE and present them to user in FE app
-
-
-### Backend tasks
-* Build API that serves all timesheets for a given worker
+* [https://github.com/Brianmanden/juultimesedler-be](https://github.com/Brianmanden/juultimesedler-be)

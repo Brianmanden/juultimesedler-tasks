@@ -1,15 +1,18 @@
 # List of tasks for the Project: Juul Timesedler
 
 ## Refactor
+
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects
 
 ## Frontend tasks
+
 * Fetch timesheets from BE and present them to user in FE app
 * Fetch and present predefined tasks
-* Add extra button for downloading PDF for given week to UI. This button can only be pressed when the given week has been submitted to backend 
+* Add extra button for downloading PDF for given week to UI. This button can only be pressed when the given week has been submitted to backend
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
 
 ## Backend tasks
+
 * **WIP** Add some kind of list (datatype) to content type in Umbraco so multiple workers can be assigned to a project
   * By default there is no multi-user picker
 
@@ -20,8 +23,11 @@
 ---
 
 ## DONE :)
+
 ### Developer workflow
+
 [https://github.com/Brianmanden/juultimesedler-tools/tree/main/DB%20Backup-restore](https://github.com/Brianmanden/juultimesedler-tools/tree/main/DB%20Backup-restore)
+
 * Create script / batch file / console app to create backup and restore of database files
   * Locations
     * Source - [E:\]PROJEKTER\juultimesedler-be\juultimesedler-be\umbraco

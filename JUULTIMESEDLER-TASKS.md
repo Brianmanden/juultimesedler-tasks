@@ -15,10 +15,15 @@
 
 * **WIP** Add some kind of list (datatype) to content type in Umbraco so multiple workers can be assigned to a project
   * By default there is no multi-user picker
-
 * Build API that serves all timesheets for a given worker
 * Build API that serves tasks defined in Umbraco
 * Build API and BE service that can provide a PDF for download of the week the worker has browsed to in the calendar
+
+## Umbraco
+
+* Build model for a task
+* Build a holder model for tasks
+* Instantiate task holder and examle tasks
 
 ---
 

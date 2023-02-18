@@ -4,6 +4,7 @@
 
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects
 * Is class ApplicationStartingNotificationHandler necessary ?
+* Refactor FE, separation of concerns - move code into classes and services
 
 ## TODOs and Errors
 

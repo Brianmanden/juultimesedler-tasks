@@ -9,6 +9,7 @@
 ## TODOs and Errors
 
 * StartTime and EndTime does not contain hours + minutes when recieved on BE
+* Ask Rasmus about settings for case sensitivity in DTOs / NewtonSoft
 
 ## Frontend tasks
 

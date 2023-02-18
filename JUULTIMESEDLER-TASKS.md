@@ -4,6 +4,10 @@
 
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects
 
+## TODOs and Errors
+
+* StartTime and EndTime does not contain hours + minutes when recieved on BE
+
 ## Frontend tasks
 
 * Fetch timesheets from BE and present them to user in FE app

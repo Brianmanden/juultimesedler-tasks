@@ -3,6 +3,7 @@
 ## Refactor
 
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects
+* Is class ApplicationStartingNotificationHandler necessary ?
 
 ## TODOs and Errors
 

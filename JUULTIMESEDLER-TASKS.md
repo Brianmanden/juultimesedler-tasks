@@ -8,8 +8,7 @@
 
 ## TODOs and Errors
 
-* **WIP** Defined tasks fetched from BE does not appear on FE task list
-* StartTime and EndTime does not contain hours + minutes when recieved on BE
+* **WIP** StartTime and EndTime does not contain hours + minutes when recieved on BE
 * Ask Rasmus about settings for case sensitivity in DTOs / NewtonSoft
 
 ## Frontend tasks
@@ -36,6 +35,9 @@
 
 ## DONE :)
 
+* Defined tasks fetched from BE does not appear on FE task list
+  * Fixed with async / await
+
 ### Developer workflow
 
 [https://github.com/Brianmanden/juultimesedler-tools/tree/main/DB%20Backup-restore](https://github.com/Brianmanden/juultimesedler-tools/tree/main/DB%20Backup-restore)
@@ -54,7 +56,6 @@
       * Gives a list of backups to choose from
       * List is generated from the backups found in the destination folder given in config file
       * User's choice of backup should be restored (overwrite files) to source folder given in config file
-
 ## OBSOLETE
 
 * ~~Add some kind of list (datatype) to content type in Umbraco so multiple workers can be assigned to a project~~

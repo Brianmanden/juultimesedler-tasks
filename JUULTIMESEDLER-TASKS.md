@@ -8,7 +8,7 @@
 
 ## TODOs and Errors
 
-* **WIP** StartTime and EndTime does not contain hours + minutes when recieved on BE
+* **WIP** Pass down StartTime and EndTime to time-picker component
 * Ask Rasmus about settings for case sensitivity in DTOs / NewtonSoft
 
 ## Frontend tasks
@@ -33,12 +33,16 @@
 
 ---
 
-## DONE :)
+## DONE tasks :)
 
 * Defined tasks fetched from BE does not appear on FE task list
   * Fixed with async / await
+* StartTime and EndTime does not contain hours + minutes when recieved on BE
+  * WIP times should be passed down to component
 
-### Developer workflow
+---
+
+## Developer workflow
 
 [https://github.com/Brianmanden/juultimesedler-tools/tree/main/DB%20Backup-restore](https://github.com/Brianmanden/juultimesedler-tools/tree/main/DB%20Backup-restore)
 

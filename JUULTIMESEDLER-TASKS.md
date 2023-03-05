@@ -22,7 +22,6 @@
 ## Backend tasks
 
 * Build API that serves all timesheets for a given worker
-* Build API that serves tasks defined in Umbraco
 * Build API and BE service that can provide a PDF for download of the week the worker has browsed to in the calendar
 
 ## Umbraco
@@ -39,6 +38,9 @@
   * Fixed with async / await
 * StartTime and EndTime does not contain hours + minutes when recieved on BE
   * WIP times should be passed down to component
+* Build API that serves tasks defined in Umbraco
+  * Tasks are now grouped
+  * Tasks can be created and edited through Umbraco GUI
 
 ---
 

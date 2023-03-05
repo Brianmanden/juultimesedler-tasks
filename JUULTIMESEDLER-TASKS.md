@@ -13,7 +13,6 @@
 ## Frontend tasks
 
 * Fetch timesheets from BE and present them to user in FE app
-  * Can fetch tasks - cannot present them in FE
 * Fetch and present predefined tasks
 * Add extra button for downloading PDF for given week to UI. This button can only be pressed when the given week has been submitted to backend
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
@@ -35,6 +34,7 @@
 
 * Defined tasks fetched from BE does not appear on FE task list
   * Fixed with async / await
+  * Can fetch tasks - ~~~cannot~~~ can present them in FE
 * StartTime and EndTime does not contain hours + minutes when recieved on BE
   * times should be passed down to component
 * Build API that serves tasks defined in Umbraco

@@ -12,20 +12,19 @@
 
 ## Frontend tasks
 
+* **WIP**  Add clear seach button and functionality to search box
+* Populate all weekdays (not only Monday) with GUI functionality
+  * Start out using hardcoded values
 * Fetch timesheets from BE and present them to user in FE app
-* Add extra button for downloading PDF for given week to UI. This button can only be pressed when the given week has been submitted to backend
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
+* Add extra button for downloading PDF for given week to UI. This button can only be pressed when the given week has been submitted to backend
 
 ## Backend tasks
 
-* Build API that serves all timesheets for a given worker
+* Build API that serves ~~all~~ the timesheet for a given worker for a given week
 * Build API and BE service that can provide a PDF for download of the week the worker has browsed to in the calendar
 
 ## Umbraco
-
-* Build model for a task
-* Build a holder model for tasks
-* Instantiate task holder and examle tasks
 
 ---
 
@@ -44,6 +43,9 @@
   * Tasks can be created and edited through Umbraco GUI
 * Pass down StartTime and EndTime to time-picker component
   * Learned about Input(), Observable/subscribe
+* Build model for a task (in Umbraco)
+* Build a holder model for tasks (in Umbraco)
+* Instantiate task holder and examle tasks (in Umbraco)
 
 ---
 

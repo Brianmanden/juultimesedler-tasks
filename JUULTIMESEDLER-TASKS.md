@@ -36,7 +36,7 @@
 * Defined tasks fetched from BE does not appear on FE task list
   * Fixed with async / await
 * StartTime and EndTime does not contain hours + minutes when recieved on BE
-  * WIP times should be passed down to component
+  * times should be passed down to component
 * Build API that serves tasks defined in Umbraco
   * Tasks are now grouped
   * Tasks can be created and edited through Umbraco GUI

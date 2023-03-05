@@ -8,7 +8,6 @@
 
 ## TODOs and Errors
 
-* **WIP** Pass down StartTime and EndTime to time-picker component
 * Ask Rasmus about settings for case sensitivity in DTOs / NewtonSoft
 
 ## Frontend tasks
@@ -41,6 +40,8 @@
 * Build API that serves tasks defined in Umbraco
   * Tasks are now grouped
   * Tasks can be created and edited through Umbraco GUI
+* Pass down StartTime and EndTime to time-picker component
+  * Learned about Input(), Observable/subscribe
 
 ---
 

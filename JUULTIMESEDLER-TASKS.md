@@ -18,6 +18,8 @@
     * Maybe use arrays to hold these
 * Fetch timesheets from BE and present them to user in FE app
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
+  * From calendar populate tabs with weekdays with dates
+    * EG. Monday 14th, Tuesday 15th etc.
 * Add extra button for downloading PDF for given week to UI. This button can only be pressed when the given week has been submitted to backend
 
 ## Backend tasks

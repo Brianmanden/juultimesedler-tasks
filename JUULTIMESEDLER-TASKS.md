@@ -13,8 +13,7 @@
 ## Frontend tasks
 
 * Populate all weekdays (not only Monday) with GUI functionality
-  * **WIP** Start out using hardcoded values
-  * Refactor models so each weekday has it´s own set of variables
+  * **WIP** Refactor models so each weekday has it´s own set of variables
     * Maybe use arrays to hold these
 * Fetch timesheets from BE and present them to user in FE app
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
@@ -33,6 +32,8 @@
 
 ## DONE tasks :)
 
+* Add hardcoded GUI to weekday tabs
+  * Start out using hardcoded values
 * Add clear seach button and functionality to search box
 * Defined tasks fetched from BE does not appear on FE task list
   * Fixed with async / await

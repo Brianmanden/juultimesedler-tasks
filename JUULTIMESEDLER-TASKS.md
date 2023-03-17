@@ -12,8 +12,6 @@
 
 ## Frontend tasks
 
-* Add clear seach button and functionality to search box
-  * **WIP** Status: can now clear search field but complete list does not come back. Research needed.
 * Populate all weekdays (not only Monday) with GUI functionality
   * Start out using hardcoded values
 * Fetch timesheets from BE and present them to user in FE app
@@ -31,6 +29,7 @@
 
 ## DONE tasks :)
 
+* Add clear seach button and functionality to search box
 * Defined tasks fetched from BE does not appear on FE task list
   * Fixed with async / await
   * Can fetch tasks - ~~~cannot~~~ can present them in FE

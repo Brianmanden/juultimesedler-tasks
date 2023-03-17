@@ -67,6 +67,7 @@
       * Gives a list of backups to choose from
       * List is generated from the backups found in the destination folder given in config file
       * User's choice of backup should be restored (overwrite files) to source folder given in config file
+
 ## OBSOLETE
 
 * ~~Add some kind of list (datatype) to content type in Umbraco so multiple workers can be assigned to a project~~

@@ -14,6 +14,8 @@
 
 * Populate all weekdays (not only Monday) with GUI functionality
   * **WIP** Start out using hardcoded values
+  * Refactor models so each weekday has it´s own set of variables
+    * Maybe use arrays to hold these
 * Fetch timesheets from BE and present them to user in FE app
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
 * Add extra button for downloading PDF for given week to UI. This button can only be pressed when the given week has been submitted to backend

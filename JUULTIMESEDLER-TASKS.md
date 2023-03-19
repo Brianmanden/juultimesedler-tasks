@@ -12,6 +12,8 @@
 
 ## Frontend tasks
 
+* Show spinner (or other similiar gfx) while loading data
+* Show error message if loading of data does not work
 * **WIP** Upgrade Angular
 * Populate all weekdays (not only Monday) with GUI functionality
   * **WIP2** Refactor models so each weekday has it´s own set of variables

@@ -12,6 +12,7 @@
 
 ## Frontend tasks
 
+* Upgrade Angular
 * Populate all weekdays (not only Monday) with GUI functionality
   * Refactor models so each weekday has it´s own set of variables
     * **WIP** Refactor models and DTOs - FE & BE

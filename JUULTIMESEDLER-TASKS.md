@@ -12,10 +12,9 @@
 
 ## Frontend tasks
 
-* Upgrade Angular
+* **WIP** Upgrade Angular
 * Populate all weekdays (not only Monday) with GUI functionality
   * Refactor models so each weekday has it´s own set of variables
-  * **WIP** Populate weekday tabs by looping over data fetched for current timesheetweek
 * Fetch timesheets from BE and present them to user in FE app
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
   * From calendar populate tabs with weekdays with dates
@@ -33,6 +32,7 @@
 
 ## DONE tasks :)
 
+* Populate weekday tabs by looping over data fetched for current timesheetweek
 * Refactor models and DTOs - FE & BE
 * Add hardcoded GUI to weekday tabs
   * Start out using hardcoded values

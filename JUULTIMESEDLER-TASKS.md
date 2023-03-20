@@ -14,7 +14,6 @@
 
 * Show spinner (or other similiar gfx) while loading data
 * Show error message if loading of data does not work
-* **WIP** Upgrade Angular
 * Populate all weekdays (not only Monday) with GUI functionality
   * **WIP2** Refactor models so each weekday has it´s own set of variables
 * Fetch timesheets from BE and present them to user in FE app
@@ -34,6 +33,7 @@
 
 ## DONE tasks :)
 
+* Upgrade Angular (ver. 15. seems to work)
 * Populate weekday tabs by looping over data fetched for current timesheetweek
 * Refactor models and DTOs - FE & BE
 * Add hardcoded GUI to weekday tabs

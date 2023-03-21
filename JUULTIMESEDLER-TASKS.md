@@ -15,7 +15,7 @@
 * Show spinner (or other similiar gfx) while loading data
 * Show error message if loading of data does not work
 * Populate all weekdays (not only Monday) with GUI functionality
-  * **WIP2** Refactor models so each weekday has it´s own set of variables
+  * **WIP** Refactor models so each weekday has it´s own set of variables
 * Fetch timesheets from BE and present them to user in FE app
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
   * From calendar populate tabs with weekdays with dates

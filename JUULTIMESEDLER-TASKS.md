@@ -4,11 +4,15 @@
 
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects
 * Is class ApplicationStartingNotificationHandler necessary ?
+  * Mostly likely not
 * Refactor FE, separation of concerns - move code into classes and services
+  * Refactoring into using Blazor instead.
 
 ## TODOs and Errors
 
 * Ask Rasmus about settings for case sensitivity in DTOs / NewtonSoft
+* In general use more precise wording of classes and services !
+* Separation of concerns and good code practises are still important. There is room for improvement here !
 
 ## Frontend tasks
 

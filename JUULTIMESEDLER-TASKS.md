@@ -39,6 +39,7 @@
 
 ## DONE tasks :)
 
+* Make a switch to using MudBlazor instead of Angular => works great :)
 * Upgrade Angular (ver. 15. seems to work)
 * Populate weekday tabs by looping over data fetched for current timesheetweek
 * Refactor models and DTOs - FE & BE

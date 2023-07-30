@@ -7,6 +7,9 @@
   * Mostly likely not
 * Refactor FE, separation of concerns - move code into classes and services
   * Refactoring into using Blazor instead.
+* Refactor into components
+  * Each component should fetch it´s own data from BE
+  * While loading data for each component a spinner should be shown - remove spinner when data is loaded
 
 ## TODOs and Errors
 

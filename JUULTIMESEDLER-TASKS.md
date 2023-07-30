@@ -13,7 +13,6 @@
 
 ## TODOs and Errors
 
-* Ask Rasmus about settings for case sensitivity in DTOs / NewtonSoft
 * In general use more precise wording of classes and services !
 * Separation of concerns and good code practises are still important. There is room for improvement here !
 

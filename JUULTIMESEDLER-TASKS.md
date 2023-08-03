@@ -18,6 +18,8 @@
 
 ## Frontend tasks
 
+* Make a check on starting time comes before ending time
+  * Mark with visual warning of some sort if rule is broken
 * Show spinner (or other similiar gfx) while loading data
 * Show error message if loading of data does not work
 * Populate all weekdays (not only Monday) with GUI functionality

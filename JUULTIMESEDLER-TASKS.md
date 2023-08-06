@@ -18,6 +18,7 @@
 
 ## TODOs and Errors
 
+* Add summary on methods
 * In general use more precise wording of classes and services !
 * Separation of concerns and good code practises are still important. There is room for improvement here !
 

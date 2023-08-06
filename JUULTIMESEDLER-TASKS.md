@@ -18,6 +18,7 @@
 
 ## Frontend tasks
 
+* Disable all fields / editors / pickers on the form if timesheet is in 'locked' state
 * Make a check on starting time comes before ending time
   * Mark with visual warning of some sort if rule is broken
 * Show spinner (or other similiar gfx) while loading data
@@ -32,6 +33,7 @@
 
 ## Backend tasks
 
+* When sending a timesheet older than current week it should have a 'locked' state set (property) so the worker can´t keep on editing it
 * Build API that serves ~~all~~ the timesheet for a given worker for a given week
 * Build API and BE service that can provide a PDF for download of the week the worker has browsed to in the calendar
 

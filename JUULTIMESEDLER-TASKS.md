@@ -7,6 +7,7 @@
 ## Refactor
 
 * BE - split current TimeService into TimeService and TimesheetService
+* Add interfaces on FE
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects
 * Is class ApplicationStartingNotificationHandler necessary ?
   * Mostly likely not

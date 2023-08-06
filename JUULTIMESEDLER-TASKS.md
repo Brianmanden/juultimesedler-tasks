@@ -1,5 +1,9 @@
 # List of tasks for the Project: Juul Timesedler
 
+## Known problems
+
+* How to best handle transitioning to a new year ?
+
 ## Refactor
 
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects

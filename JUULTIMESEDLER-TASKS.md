@@ -6,6 +6,7 @@
 
 ## Refactor
 
+* **WIP** Combine FE and BE projects into one to be able to share models and assets
 * BE - split current TimeService into TimeService and TimesheetService
 * Add interfaces on FE
 * For more flexibility all workers should be able to access and send in their timesheets on all current projects
@@ -31,7 +32,7 @@
 * Show spinner (or other similiar gfx) while loading data
 * Show error message if loading of data does not work
 * Populate all weekdays (not only Monday) with GUI functionality
-  * **WIP** Refactor models so each weekday has it´s own set of variables
+  * Refactor models so each weekday has it´s own set of variables
 * Fetch timesheets from BE and present them to user in FE app
 * Add calendar so workers can browse back in time to see submitted timesheets (and download PDF documents of the given week)
   * From calendar populate tabs with weekdays with dates
